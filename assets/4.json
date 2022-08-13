@@ -1,0 +1,54 @@
+{
+  "name": "Awesome clouds #4",
+  "symbol": "AC",
+  "description": "Remember to replace this description",
+  "seller_fee_basis_points": 1000,
+  "image": "4.png",
+  "external_url": "https://www.youtube.com/c/hashlipsnft",
+  "edition": 4,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Eyeball",
+      "value": "White"
+    },
+    {
+      "trait_type": "Eye color",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Iris",
+      "value": "Large"
+    },
+    {
+      "trait_type": "Shine",
+      "value": "Shapes"
+    },
+    {
+      "trait_type": "Bottom lid",
+      "value": "Middle"
+    },
+    {
+      "trait_type": "Top lid",
+      "value": "High"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "4.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "9v8qCkipmtCyfBZ9gQR79PSC5by6r1Cs9aQfwxc4BGiG",
+        "share": 100
+      }
+    ]
+  }
+}
