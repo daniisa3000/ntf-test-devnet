@@ -35,7 +35,7 @@ create folder assets and copy in my-project
 Config upload assets in my-project
 sugar create-config -c my-config.json
 
-# Candy Machine ID: 3QNr5BfoTZ42YGWVsyDbBPosjjDgYGPmR47T5rWYG6oW
+## Candy Machine ID: 3QNr5BfoTZ42YGWVsyDbBPosjjDgYGPmR47T5rWYG6oW
 sugar launch
 
 
