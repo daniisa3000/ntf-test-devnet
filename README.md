@@ -9,13 +9,13 @@ sugar --version
 sh -c "$(curl -sSfL https://release.solana.com/v1.10.32/install)"
 solana --version
 
-# 9v8qCkipmtCyfBZ9gQR79PSC5by6r1Cs9aQfwxc4BGiG
+## 9v8qCkipmtCyfBZ9gQR79PSC5by6r1Cs9aQfwxc4BGiG
 solana-keygen new --outfile Users/danie/Desktop/NTFsolana/my-keypair.json
 
-# E9LSB97Xsn14cvPeAMGCTJ8LLEtToXB2CGyLyDn2vC1Y
+## E9LSB97Xsn14cvPeAMGCTJ8LLEtToXB2CGyLyDn2vC1Y
 Treasury ramdon wallets phantom
 
-# Cwceva6wFKyqh9AYD7TUYLBkPLxmEYk1uXJWcPgk6Gef
+## Cwceva6wFKyqh9AYD7TUYLBkPLxmEYk1uXJWcPgk6Gef
 solana-keygen new --outfile ./wallets/Creator.json
 
 solana config set --keypair Users/danie/Desktop/NTFsolana/my-keypair.json
